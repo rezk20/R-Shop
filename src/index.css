@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    overflow:auto;
+    scrollbar-color: #0f0f0f;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+    
+}
+
+
